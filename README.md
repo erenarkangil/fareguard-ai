@@ -1,6 +1,9 @@
 # RAG-based-personalized-chatbot-for-Airlines-and-Travel-Agencies
 Helping travel agencies to understand complex ticketing rules not to get penalized
 
+The results were impressive. Please find here:
+
+https://www.linkedin.com/feed/update/urn:li:activity:7348204121398591491/
 
 
 While ChatGPT and other LLMs are powerful, they struggle with highly specialized, rule-based domains like airline fare construction, ATPCO categories, or GDS violations.
