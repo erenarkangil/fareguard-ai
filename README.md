@@ -34,13 +34,13 @@ FareGuard.AI is powered by a **Retrieval-Augmented Generation (RAG)** pipeline:
    Documents are split into logical chunks and converted into vector embeddings stored in a **FAISS** database.  
 
 3. **Retrieval + Generation:**  
-   When a user asks a question, FareGuard retrieves the most relevant text chunks and combines them with **OpenAI GPT** models for grounded, context-aware responses.  
+   When a user asks a question, FareGuard retrieves the most relevant text chunks and combines them with **transformer** models for grounded, context-aware responses.  
 
 4. **Flask UI:**  
    A web-based interface allows users to ask fare-related questions interactively.  
 
 🔎 **Why RAG?**  
-RAG reduces hallucinations and ensures responses are **traceable**, **factual**, and **contextually grounded**, saving **millions in potential ADM losses** across the industry.
+RAG reduces hallucinations and ensures responses are  **factual**, and **contextually grounded**, reducing risk of **millions in potential ADM losses** across the industry.
 
 ---
 
