@@ -1,12 +1,13 @@
 # ✈️ FareGuard.AI  
-**RAG-Based Personalized Chatbot for Airlines and Travel Agencies**
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Flask](https://img.shields.io/badge/Flask-Framework-green)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-orange)
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-yellow)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-purple)
+**RAG-Based Personalized Chatbot for Airlines and Travel Agencies**
+
+
 
 FareGuard.AI is a **domain-specific Retrieval-Augmented Generation (RAG)** system built to help travel professionals understand **complex airline fare rules** and **avoid costly ADMs (Agency Debit Memos)**.  
 
