@@ -49,7 +49,7 @@ RAG reduces hallucinations and ensures responses are  **factual**, and **context
 | Component | Description |
 |------------|-------------|
 | **Frontend** | Flask (HTML/CSS templates) |
-| **LLM Backend** | OpenAI GPT models *(modular design — can integrate local LLMs like Llama or Mistral)* |
+| **LLM Backend** | OpenAI models *(modular design — can integrate local LLMs like Llama or Mistral)* |
 | **Retriever** | FAISS vector database |
 | **Embeddings** | OpenAI embeddings  / Sentence Transformers (e.g., `all-MiniLM-L6-v2`)   |
 | **Processing Framework** | LangChain |
