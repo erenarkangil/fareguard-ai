@@ -9,19 +9,15 @@
 **RAG-Based Personalized Chatbot for Airlines and Travel Agencies**
 
 
-
-FareGuard.AI is a domain-specific Retrieval-Augmented Generation (RAG) system built to help travel professionals understand complex airline fare rules and avoid costly ADMs (Agency Debit Memos). 
-
-While general LLMs like ChatGPT are powerful, they often hallucinate or fail in highly specialized, rule-based contexts — such as ATPCO, IATA, or GDS fare construction
-
-FareGuard.AI bridges that gap with domain-tuned retrieval and delivering accurate and more reliable answers for the travel industry.
-
 ---
 
 ## 🌍 Overview
 
 FareGuard.AI acts as a **knowledge assistant** for airline revenue management, fare audit, and ticketing teams.  
 It retrieves and interprets official rule documentation to provide reliable, contextual responses.
+
+While general LLMs like ChatGPT are powerful, they often hallucinate or fail in highly specialized, rule-based contexts — such as ATPCO, IATA, or GDS fare construction
+
 
 💡 **Mission:** Prevent misinformation and reduce costly fare violations by giving agents an AI that truly understands fare rules.
 
