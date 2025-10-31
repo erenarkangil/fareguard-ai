@@ -5,6 +5,7 @@
 ![FAISS](https://img.shields.io/badge/FAISS-VectorDB-yellow)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT4-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-purple)
+
 **RAG-Based Personalized Chatbot for Airlines and Travel Agencies**
 
 
