@@ -68,7 +68,7 @@ RAG reduces hallucinations and ensures responses are  **factual**, and **context
 ### ✈️ FareGuard.AI’s Response  
 > “Category 6 refers to *minimum stay requirements* within ATPCO fare rules.  
 > Agents must ensure the outbound and inbound segments meet the published minimum stay to avoid violations.  
-> Failing to comply may trigger ADM penalties under ATPCO Cat 16 (Penalties) or IATA Resolution 850m.”
+> Failing to comply may trigger ADM penalties under IATA Resolution 850m.”
 
 ---
 
