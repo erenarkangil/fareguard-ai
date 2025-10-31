@@ -72,9 +72,9 @@ Below is a side-by-side demo showing the same query asked to **ChatGPT** and **F
 
 | ChatGPT | FareGuard.AI |
 |:--------:|:-------------:|
-| ![ChatGPT Demo](static/chatgpt-demo.gif) | ![FareGuard Demo](static/fareguard-demo.gif) |
+| ![ChatGPT Demo](static/chatgpt.gif) | ![FareGuard Demo](static/fareguard.gif) |
 
-*(Replace with your own GIFs — e.g., upload them under `/static/` or link directly from LinkedIn if hosted.)*
+
 
 ---
 
