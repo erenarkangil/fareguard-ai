@@ -50,9 +50,9 @@ RAG reduces hallucinations and ensures responses are **traceable**, **factual**,
 | Component | Description |
 |------------|-------------|
 | **Frontend** | Flask (HTML/CSS templates) |
-| **LLM Backend** | OpenAI GPT models |
+| **LLM Backend** | OpenAI GPT models *(modular design — can integrate local LLMs like Llama or Mistral)* |
 | **Retriever** | FAISS vector database |
-| **Embeddings** | OpenAI embeddings |
+| **Embeddings** | OpenAI embeddings  / Sentence Transformers (e.g., `all-MiniLM-L6-v2`)   |
 | **Processing Framework** | LangChain |
 | **Data Source** | ATPCO, IATA, GDS rule documentation |
 
